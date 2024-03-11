@@ -22,3 +22,5 @@ Based on a C API, I created a Python module that contains:
   - Exponential
   - Chi-squared
   - Cauchy
+
+Possible minor changes and enhancements can be expected.
