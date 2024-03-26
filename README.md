@@ -1,4 +1,4 @@
-Based on a C API, I created a Python module that contains:
+Based on a `C API`, I created a Python module that contains:
 
 - A function that returns the n-th element of the Fibonacci sequence.
 - Functions that calculate the value of the density function for the most common probability distributions:
